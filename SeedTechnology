@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SEED School Technology Home</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="css/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/fonts.css" rel="stylesheet" type="text/css" media="all" />
+<style type="text/css">
+#banner-wrapper #banner p {
+	font-family: "Courier New", Courier, monospace;
+}
+#banner-wrapper #banner p {
+	font-size: 16pt;
+}
+#footer-wrapper #footer .column1 .title h2 a {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FF0000;
+}
+#footer-wrapper #footer .column2 .title h2 a {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FF0000;
+}
+</style>
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">SEED School MD Technology</a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="#" accesskey="1" title="">Homepage</a></li>
+				<li><a href="#" accesskey="2" title="">Curriculum</a></li>
+				<li><a href="#" accesskey="3" title="">About US</a></li>
+				<li><a href="#" accesskey="4" title="">Gallery</a></li>
+				<li><a href="#" accesskey="5" title="">Contact Mr. Kurtz</a></li>
+			</ul>
+		</div>
+    <a href="http://www.seedschoolmd.org"><img src="images/SEED.jpg" alt="" width="211" height="146" /></a> </div>
+</div>
+<div id="header-featured"> </div>
+<div id="banner-wrapper">
+	<div id="banner" class="container">
+		<p>This is <strong>the homepage for the SEED School of Maryland's Technology course.</strong></p>
+	  <p><strong> From here you will find links to important documents and web pages. </strong><a href="http://templated.co/license"></a></p>
+	</div>
+</div>
+<div id="wrapper">
+	<div id="featured-wrapper">
+		<div id="featured" class="container">
+			<div class="column1"> <span class="icon icon-key"></span>
+				<div class="title">
+					<h2>6th Grade Technology</h2>
+				</div>
+				<p>The path to Communication</p>
+			</div>
+			<div class="column2"> <span class="icon icon-legal"></span>
+				<div class="title">
+					<h2>8th Grade Technology</h2>
+				</div>
+				<p>Exploring Design</p>
+			</div>
+			<div class="column3"> <span class="icon icon-unlock"></span>
+				<div class="title">
+					<h2>Technology 1</h2>
+				</div>
+				<p>Mastery of communication.</p>
+			</div>
+			<div class="column4"> <span class="icon icon-wrench"></span>
+				<div class="title">
+					<h2>Advanced Technology</h2>
+				</div>
+				<p>Creative expression</p>
+			</div>
+		</div>
+	</div>
+	<div id="extra" class="container">
+		<h2>"Any sufficiently advanced technology is indistinguishable from magic."</h2>
+		<span>-Arthur C. Clarke</span> <a href="#" class="button">Etiam posuere</a> </div>
+</div>
+	<div id="footer-wrapper">
+		<div id="footer" class="container">
+			<div class="column1">
+				<div class="title">
+					<h2><a href="http://www.edmodo.com">Edmodo</a></h2>
+				</div>
+				<p>A social learning network where students can recieve assignments, turn in assignments, and communicate with each other. </p>
+			</div>
+			<div class="column2">
+				<div class="title">
+					<h2><a href="http://www.turnitin.com">Turn It in</a></h2>
+				</div>
+				<p>One of the most widely distributed educational applications in the world, Turnitin.com is a virtual dropbox submission service and plagiarism checker. </p>
+			</div>
+			<div class="column3">
+				<div class="title">
+					<h2>Fusce ultrices fringilla</h2>
+				</div>
+				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
+			</div>
+			<div class="column4">
+				<div class="title">
+					<h2>Etiam posuere augue</h2>
+				</div>
+				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
+			</div>
+		</div>
+	</div>
+
+<div id="copyright" class="container">
+	<p>&copy; SEED School of Maryland. All rights reserved. | Design Based on <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+</body>
+</html>
